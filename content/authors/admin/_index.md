@@ -17,11 +17,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Undergraduate Student at National University of Singapore
+role: Undergraduate Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: National University of Singapore
+  - name: National University of Singapore, NUS College
     url: https://www.nus.edu.sg/
 
 # Short bio (displayed in user profile at end of posts)
@@ -29,8 +29,8 @@ bio: Hi.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Law
+  - Artificial Intelligence and Data Science
+  - Law and Philosophy
 
 # Education to show in About widget
 education:
@@ -52,15 +52,15 @@ skills:
         percent: 90
         icon: python
         icon_pack: fab
-      - name: R and SQL
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
       - name: Java
         description: ''
         percent: 80
         icon: database
+        icon_pack: fas
+      - name: R and SQL
+        description: ''
+        percent: 100
+        icon: chart-line
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
@@ -68,7 +68,7 @@ skills:
     items:
       - name: Bird Watching
         description: ''
-        percent: 60
+        percent: 100
         icon: person-hiking
         icon_pack: fas
       - name: Cats
@@ -104,5 +104,8 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Mulan Qin is a second-year student at NUS College, enrolled in the Data Science and Economics Cross Disciplinary Program (XDP). She possesses a strong analytical background and an interest in the intersection of technology and societal challenges. She hopes to pursue law in the future, leveraging her understanding of technology to address real-world social issues for the greater good, particularly in the areas of learning and the regulation and impact of AI.
+
+
+
 {style="text-align: justify;"}
