@@ -104,7 +104,7 @@ social:
 highlight_name: true
 ---
 
-Mulan Qin is a second-year student at NUS College, enrolled in the Data Science and Economics Cross Disciplinary Program (XDP). She possesses a strong analytical background and an interest in the intersection of technology and societal challenges. She hopes to pursue law in the future, leveraging her understanding of technology to address real-world social issues for the greater good, particularly in the areas of learning and the regulation and impact of AI.
+Mulan Qin is a second-year student at NUS College, enrolled in the Data Science and Economics Cross Disciplinary Program (XDP). She has a strong analytical background and an interest in the intersection of technology and societal challenges. She hopes to pursue law in the future, leveraging her understanding of technology to address real-world social issues, particularly in the areas of educational learning and the regulation and impact of AI.
 
 
 
